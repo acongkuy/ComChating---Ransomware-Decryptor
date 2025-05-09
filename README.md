@@ -104,7 +104,7 @@ pip install pycryptodome
    Jika belum meng-clone repository ini, lakukan dengan perintah berikut:
 
    ```bash
-   git clone https://github.com/username/comchating.git
+   git clone https://github.com/acongkuy/ComChating---Ransomware-Decryptor
    cd comchating
    ```
 
